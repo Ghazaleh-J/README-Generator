@@ -55,7 +55,7 @@ const questions = [
 
 // TODO: Create a function to write README file  /(fileName, data) = previous parameters
 function writeToFie(answers) {
-    fs.writeFileSync('README.md', generateReadme(answers))
+    fs.writeFileSync('READMEGen.md', generateReadme(answers))
 }
 
 
