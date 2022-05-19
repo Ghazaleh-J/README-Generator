@@ -1,6 +1,5 @@
 # README Generator
   ## License
-     BSD 
   - The application is covered under [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ## Table of Contents
   * [Description](#description)
@@ -17,7 +16,8 @@
   Copy the repository to your system, install inquirer, run: node index.js
   ## Usage
   creating a README File
-  
+  ## License
+     BSD 
   ## Contributing
   Practice, practice, practice
   ## Tests
