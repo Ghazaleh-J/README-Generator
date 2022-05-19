@@ -32,15 +32,14 @@ function renderLicenseSection(license) {
     return ""
   } else {
     return `## License
-     ${license}`
+    The application is covered under ${license}`
   }
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.Title}
-  ## License
-  - The application is covered under ${renderLicenseBadge(data.License)}
+  ${renderLicenseSection(data.License)} ${renderLicenseBadge(data.License)}
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
