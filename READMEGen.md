@@ -24,5 +24,5 @@
   ## Questions
   Any questions or concerns? Please contact me via:
   - Github Username: Ghazaleh-J
-  - Github Link: [Github Link](https://github.com/Ghazaleh-J)
+  - Github Link: [Ghazaleh-J](https://github.com/Ghazaleh-J)
   - Email: ghazal.javadi@gmail.com
