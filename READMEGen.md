@@ -1,6 +1,5 @@
 # README Generator
-  ## License
-    The application is covered under BSD + [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -25,4 +24,5 @@
   ## Questions
   Any questions or concerns? Please contact me via:
   - Github Username: Ghazaleh-J
+  - Github Link: [Github Link](https://github.com/Ghazaleh-J)
   - Email: ghazal.javadi@gmail.com
