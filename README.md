@@ -23,11 +23,10 @@ then a badge for that license is added near the top of the README and a notice i
 
 * The links in the Table of Contents takes you to the corresponding section of the README
 
-Link to  a walkthrough video that demonstrates functionality of the app:
 
-[walkthrough video](https://drive.google.com/file/d/16o_JdF5Q6zOr1Wcq8B4eTXHnW3hJxqaT/view)
+ ##  [Link](https://drive.google.com/file/d/16o_JdF5Q6zOr1Wcq8B4eTXHnW3hJxqaT/view) to  a walkthrough video that demonstrates functionality of the app
 
-README Preview:
+## README Preview:
 
 ![README Preview](./utils/preview.png)
 
