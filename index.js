@@ -65,9 +65,10 @@ const questions = [
 function writeToFie(answers) {
     fs.writeFileSync('READMEGen.md', generateReadme(answers))
 }
-
-
-inquirer
+   
+// TODO: Create a function to initialize app
+function init() {
+    inquirer
   .prompt(questions)
   .then((answers) => {
       console.log(answers)
@@ -81,14 +82,7 @@ inquirer
         console.error("Something else went wrong")
     }
   });
-  
-
-  
-
-
-   
-// TODO: Create a function to initialize app
-// function init() {}
+}
 
 // Function call to initialize app
-// init();
+init();
