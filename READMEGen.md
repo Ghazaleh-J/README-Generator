@@ -1,5 +1,5 @@
 # README Generator
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+ [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -23,6 +23,5 @@
   Terminal window
   ## Questions
   Any questions or concerns? Please contact me via:
-  - Github Username: Ghazaleh-J
-  - Github Link: [Ghazaleh-J](https://github.com/Ghazaleh-J)
+  - Github Username: [Ghazaleh-J](https://github.com/Ghazaleh-J)
   - Email: ghazal.javadi@gmail.com
