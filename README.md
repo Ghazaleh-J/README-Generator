@@ -25,9 +25,9 @@ then a badge for that license is added near the top of the README and a notice i
 
 # Links:
 
-*[Video Demo](https://drive.google.com/file/d/16o_JdF5Q6zOr1Wcq8B4eTXHnW3hJxqaT/view) 
+* [Video Demo](https://drive.google.com/file/d/16o_JdF5Q6zOr1Wcq8B4eTXHnW3hJxqaT/view) 
 
-*[Generated README](https://github.com/Ghazaleh-J/README_Generator_NodeJS-9/blob/main/READMEGen.md) 
+* [Generated README](https://github.com/Ghazaleh-J/README_Generator_NodeJS-9/blob/main/READMEGen.md) 
 
 
 ## README Preview:
