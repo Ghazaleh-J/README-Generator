@@ -1,11 +1,11 @@
-# README_Generator_NodeJS-9
+# README_Generator_NodeJS
 
-## Description:
+## Description
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
 In this project, I created a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-## Criteria:
+## Criteria
 
 * A command-line application that accepts user input and generates a high-quality, professional README.md
 
@@ -32,14 +32,14 @@ then a badge for that license is added near the top of the README and a notice i
 * Inquirer package
 * NodeJs
 
-## Links:
+## Links
 
 * [Video Demo](https://drive.google.com/file/d/16o_JdF5Q6zOr1Wcq8B4eTXHnW3hJxqaT/view) 
 
 * [Generated README](https://github.com/Ghazaleh-J/README_Generator_NodeJS-9/blob/main/READMEGen.md) 
 
 
-## README Preview:
+## README Preview
 
 ![README Preview](./utils/preview.png)
 
